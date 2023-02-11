@@ -102,7 +102,7 @@ class App
     puts @books
     chosen_book = gets.chomp.to_i
     puts 'Select a person from the following list by number (not id)'
-    @people.each_with_index { |person, index| puts "#{index}, Name: #{person.name} , Age: #{person.age} " }
+    @people.each_with_index { |person, index| puts "#{index}, Name: #{person.name},Id : #{person.id}, Age: #{person.age} " }
     chosen_person = gets.chomp.to_i
     puts 'Date: [yyyy,mm,dd]'
     date = gets.chomp.to_s
