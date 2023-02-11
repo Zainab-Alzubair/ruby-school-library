@@ -11,4 +11,8 @@ class Book
   def add_rental(person, date)
     Rental.new(person, date, self)
   end
+
+  def to_s
+    'here is  a book'
+  end
 end

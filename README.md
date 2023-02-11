@@ -46,9 +46,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Add new students or teachers.
-- Add new books.
-- Save records of who borrowed a given book and when.
+- **[Add new students or teachers.]**
+- **[Add new books.]**
+- **[Save records of who borrowed a given book.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,24 +70,6 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running follow these simple example steps.
-
-## Clone Git Repository
-
--Reach to following Github URL:
-```
-https://github.com/Zainab-Alzubair/ruby-school-library
-
-```
-
--Copy the URL.
-
--In Visual Studio Code “Terminal” change the current working directory to the location where you want the cloned directory.
-
--Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
-
-```
-$ git clone {https://github.com/Zainab-Alzubair/ruby-school-library}
-```
 
 
 ### Prerequisites <a name="prerequisites"></a>
@@ -135,7 +117,7 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **enable the user to input the Morse code**
+- [ ] **preserve data**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,7 +150,7 @@ Give a ⭐️ if you like this project!
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
-Can the program convert only one word?
+Can the program List all the available books?
 Yes
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
